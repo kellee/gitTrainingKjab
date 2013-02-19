@@ -14,3 +14,5 @@ adding a new line when required to observe
 
 making a second change without having added the previous
 versions changes
+adding more lines and changes
+to the test file
